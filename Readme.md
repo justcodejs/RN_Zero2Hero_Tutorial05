@@ -17,7 +17,7 @@ Hi! Welcome to JustCode React Native Zero to Hero Tutorial 5 Github page. To run
       * BiliBili: [https://www.bilibili.com/video/av87915891/](https://www.bilibili.com/video/av87915891/)
 3. Change the App ID and Key in the src/lib/api.js file to the one you registered in step 1.
 4. Generate your own Google Firebase configuration file for both Android and iOS.
-5. 
+
 Once you have the above conditions met, you may download the tutorial source code as a zip file or clone it using the command below.
 
 `git clone https://github.com/justcodejs/RN_Zero2Hero_Tutorial05.git`
